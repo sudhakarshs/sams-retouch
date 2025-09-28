@@ -2615,7 +2615,7 @@ input[type=color] {
 }
 .tp-breadcrumb-title {
   font-weight: 700;
-  font-size: 80px;
+  font-size: 50px;
   line-height: 1.5;
   margin-bottom: 0;
   letter-spacing: -0.03em;
@@ -15681,7 +15681,7 @@ body.tp-magic-cursor #magic-cursor {
 }
 .ar-about-us-4-title {
   color: #111013;
-  font-size: 50px;
+  font-size: 35px;
   font-weight: 800;
   line-height: 1;
   margin-bottom: 50px;
