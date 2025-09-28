@@ -206,7 +206,7 @@
 	var project_slider = new Swiper('.it-project-active', {
 		slidesPerView: 4,
 		loop: true,
-		autoplay: false,
+		autoplay: true,
 		arrow: false,
 		spaceBetween: 30,
 		speed: 1000,
@@ -1096,7 +1096,7 @@
 		delay: 5000,
 	  },
 	  parallax: true,
-	  mousewheel: true,
+	  mousewheel: false,
 	  loop: true,
 	  on: {
 		init: function () {
